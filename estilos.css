@@ -1,0 +1,46 @@
+body{
+    margin: 0 auto;
+    font-size: 16px;
+    max-width: 1024px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background: #cfe2e7;
+    position: relative;
+}
+header nav{
+    background: #0070c5;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 99px;
+}
+
+header nav ul {
+    display: inline-block;
+}
+
+header nav ul li{
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+header nav form{
+    float: right;
+    margin: 15px 20px 0 0;
+}
+#logo{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.buscador{
+    border-radius: 5px;
+}
+
+.boton-buscar{
+    
+}
